@@ -1,6 +1,6 @@
 # Game Center - Atividade Bootstrap 🎮
 
-Projeto desenvolvido para a disciplina de **Front-End / Frameworks** da FIAP (Engenharia de Software - 2º Semestre).
+Projeto desenvolvido para a disciplina de **Front-End** da FIAP (Engenharia de Software - 2º Semestre).
 
 O objetivo principal desta atividade é praticar a estruturação de páginas web responsivas utilizando os principais componentes do framework **Bootstrap 5**, baseando-se em uma proposta de layout comercial.
 
